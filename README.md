@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @archibald harry tuttle
 - 👀 I’m interested in Immersive Media Design.
-- 🦚 I like to patch in vvvv.
 - 🌱 I’m currently a Researcher in Cultural Heritage Science.
 - 🔮 I'm developing software and hardware for real time data processing, simulation and visualization.
 - 👁‍🗨 I'm specialized on creating a digital replica by implementing photogrammetry and image based modeling.
+- 🦚 I like to patch in vvvv.
 - I worded as projection mapping specialist, interaction designer, software developer.
 - 💞️ I am looking to collaborate on projects for the development and the implementation of immersive multimedia experiences.
 - 👓 I'm open to work as projection mapping specialist, interaction designer, software developer (vvvv)
